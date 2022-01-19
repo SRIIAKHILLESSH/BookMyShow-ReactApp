@@ -7,7 +7,7 @@ function SliderImages() {
             <Carousel.Item >
                 <img
                 className="d-block w-50"
-                src="./av.jpeg"
+                src="./pride.jpeg"
                 alt="First slide"
                 
 
