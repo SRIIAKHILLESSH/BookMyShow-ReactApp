@@ -20,7 +20,7 @@ function SliderImages() {
             <Carousel.Item>
                 <img
                 className="d-block w-50"
-                src="./venom.png"
+                src=""
                 alt="Second slide"
                 />
                 <Carousel.Caption>
