@@ -9,11 +9,11 @@ function CardsSlider() {
             <Carousel.Item >
                 <CardGroup style={{display:"flex", gap:"40px", justifyContent:"space-around"}}>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./venom.png" alt="Card image" style={{height:"300px", width:"300px"}} />
+                        <Card.Img src="./rrr.png" alt="Card image" style={{height:"300px", width:"300px"}} />
             
                     
                         <Card.ImgOverlay>
-                            <Card.Title>venom</Card.Title>
+                            <Card.Title>RRR</Card.Title>
                             <Card.Text>
                             
                             </Card.Text>
@@ -31,9 +31,9 @@ function CardsSlider() {
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./rrr.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                        <Card.Img src="./liger.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
                         <Card.ImgOverlay>
-                            <Card.Title>RRR</Card.Title>
+                            <Card.Title>Liger</Card.Title>
                             <Card.Text>
                             
                             </Card.Text>

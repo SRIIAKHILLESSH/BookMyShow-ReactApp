@@ -7,7 +7,7 @@ function SliderImages() {
             <Carousel.Item >
                 <img
                 className="d-block w-50"
-                src="./rrr1.png"
+                src="./joker.png"
                 alt="First slide"
                 />
                 <Carousel.Caption>
@@ -20,7 +20,7 @@ function SliderImages() {
             <Carousel.Item>
                 <img
                 className="d-block w-50"
-                src=""
+                src="./pride.png"
                 alt="Second slide"
                 />
                 <Carousel.Caption>
@@ -31,7 +31,7 @@ function SliderImages() {
             <Carousel.Item>
                 <img
                 className="d-block w-50"
-                src="./logo192.png"
+                src="./radheshyam.png"
                 alt="Third slide"
                 />
                 <Carousel.Caption>
