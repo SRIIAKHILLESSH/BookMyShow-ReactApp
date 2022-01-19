@@ -10,9 +10,9 @@ function Premieres() {
             <Carousel.Item >
                 <CardGroup>
                     <Card>
-                        <Card.Img variant="top" src="./radhe.png" />
+                        <Card.Img variant="top" src="./mechanic.png" />
                         <Card.Body>
-                        <Card.Title>RADHE SHYAM</Card.Title>
+                        <Card.Title>MECHANIC</Card.Title>
                         <Card.Text>
                            
                         </Card.Text>
