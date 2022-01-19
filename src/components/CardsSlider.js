@@ -17,7 +17,7 @@ function CardsSlider() {
                             <Card.Text>
                             
                             </Card.Text>
-                            <Card.Text>Last updated 3 mins ago</Card.Text>
+                            <Card.Text></Card.Text>
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
@@ -27,7 +27,7 @@ function CardsSlider() {
                             <Card.Text>
                             
                             </Card.Text>
-                            <Card.Text>Last updated 3 mins ago</Card.Text>
+                            <Card.Text></Card.Text>
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
@@ -37,7 +37,7 @@ function CardsSlider() {
                             <Card.Text>
                             
                             </Card.Text>
-                            <Card.Text>Last updated 3 mins ago</Card.Text>
+                            <Card.Text></Card.Text>
                         </Card.ImgOverlay>
                     </Card>
                 </CardGroup>
