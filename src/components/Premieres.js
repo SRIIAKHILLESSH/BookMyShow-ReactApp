@@ -27,9 +27,9 @@ function Premieres() {
                         </Card.Body>
                     </Card>
                     <Card>
-                        <Card.Img variant="top" src="./rrr.png" />
+                        <Card.Img variant="top" src="./matrix.png" />
                         <Card.Body>
-                        <Card.Title>RRR</Card.Title>
+                        <Card.Title>MATRIX</Card.Title>
                         <Card.Text>
                             
                         </Card.Text>
