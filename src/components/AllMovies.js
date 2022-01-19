@@ -15,6 +15,8 @@ function AllMovies() {
                                 <Card.Img variant="top" src={mov.image} />
                                  
                                 <Card.Body>
+                                <Card.Img src="./akhanda.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                         
                                 <Card.Title>{mov.title}</Card.Title>
                                 <Card.Text>{mov.actor}</Card.Text>
                                 </Card.Body>
