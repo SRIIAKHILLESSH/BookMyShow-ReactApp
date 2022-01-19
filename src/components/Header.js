@@ -41,8 +41,8 @@ function Header() {
             </Container>
         </Navbar>
         <Container>
-            <a>First Option</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a>Second Option</a>
+            <a>Movies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a>Events</a>
         </Container>
     </div>
   );

@@ -7,14 +7,14 @@ function SliderImages() {
             <Carousel.Item >
                 <img
                 className="d-block w-50"
-                src="./joker.png"
+                src="./first.png"
                 alt="First slide"
                 />
                 <Carousel.Caption>
-                <h3>First slide label</h3>
+                <h3></h3>
                 
                                  
-                <p>RRR</p>
+                <p></p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -35,8 +35,8 @@ function SliderImages() {
                 alt="Third slide"
                 />
                 <Carousel.Caption>
-                <h3>Third slide label</h3>
-                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                <h3></h3>
+                <p></p>
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>
