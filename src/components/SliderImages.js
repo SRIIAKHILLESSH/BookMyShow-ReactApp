@@ -12,7 +12,10 @@ function SliderImages() {
                 />
                 <Carousel.Caption>
                 <h3>First slide label</h3>
-                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVenom_(2018_film)&psig=AOvVaw3lcaMI_5q5HLtoIlHDDG2m&ust=1642701741576000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCE9ICzvvUCFQAAAAAdAAAAABAD" alt = "venom">
+                                     </img> 
+                                 
+                <p>VENOM</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
