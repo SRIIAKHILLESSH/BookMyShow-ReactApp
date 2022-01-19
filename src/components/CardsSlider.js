@@ -65,9 +65,9 @@ function CardsSlider() {
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./jb.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                        <Card.Img src="./dead.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
                         <Card.ImgOverlay>
-                            <Card.Title></Card.Title>
+                            <Card.Title>Dead Poets Society</Card.Title>
                             <Card.Text>
                             
                             </Card.Text>
