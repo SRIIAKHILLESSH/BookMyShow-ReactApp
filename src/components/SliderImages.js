@@ -7,15 +7,14 @@ function SliderImages() {
             <Carousel.Item >
                 <img
                 className="d-block w-50"
-                src="./logo192.png"
+                src="./rrr1.png"
                 alt="First slide"
                 />
                 <Carousel.Caption>
                 <h3>First slide label</h3>
-                <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVenom_(2018_film)&psig=AOvVaw3lcaMI_5q5HLtoIlHDDG2m&ust=1642701741576000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCE9ICzvvUCFQAAAAAdAAAAABAD" alt = "venom">
-                                     </img> 
+                
                                  
-                <p>VENOM</p>
+                <p>RRR</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -25,8 +24,8 @@ function SliderImages() {
                 alt="Second slide"
                 />
                 <Carousel.Caption>
-                <h3>Second slide label</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h3></h3>
+                <p></p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
