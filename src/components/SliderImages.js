@@ -21,7 +21,7 @@ function SliderImages() {
             <Carousel.Item>
                 <img
                 className="d-block w-50"
-                src="./logo192.png"
+                src="./venom.png"
                 alt="Second slide"
                 />
                 <Carousel.Caption>
