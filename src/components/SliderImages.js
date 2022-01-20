@@ -7,8 +7,9 @@ function SliderImages() {
             <Carousel.Item >
                 <img
                 className="d-block w-50"
-                src="./pride.jpeg"
+                src="./joker.png"
                 alt="First slide"
+                style={{height:"400px", width:"800px"}}
                 
 
 
@@ -25,6 +26,7 @@ function SliderImages() {
                 className="d-block w-50"
                 src="./marvel.png"
                 alt="Second slide"
+                style={{height:"400px", width:"800px"}}
                 />
                 <Carousel.Caption>
                 <h3></h3>

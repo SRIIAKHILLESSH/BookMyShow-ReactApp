@@ -9,7 +9,7 @@ function CardsSlider() {
             <Carousel.Item >
                 <CardGroup style={{display:"flex", gap:"40px", justifyContent:"space-around"}}>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./rrr.png" alt="Card image" style={{height:"300px", width:"300px"}} />
+                        <Card.Img src="./rrr.png" alt="Card image" style={{height:"300px", width:"400px"}} />
             
                     
                         <Card.ImgOverlay>
@@ -21,7 +21,7 @@ function CardsSlider() {
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./cruella.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                        <Card.Img src="./cruella.png" alt="Card image" style={{height:"300px", width:"400px"}}/>
                         <Card.ImgOverlay>
                             <Card.Title>Cruella</Card.Title>
                             <Card.Text>
@@ -31,7 +31,7 @@ function CardsSlider() {
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./liger.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                        <Card.Img src="./liger.png" alt="Card image" style={{height:"300px", width:"400px"}}/>
                         <Card.ImgOverlay>
                             <Card.Title>Liger</Card.Title>
                             <Card.Text>
@@ -45,7 +45,7 @@ function CardsSlider() {
             <Carousel.Item>
                 <CardGroup style={{display:"flex", gap:"40px", justifyContent:"space-around"}}>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./akhanda.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                        <Card.Img src="./akhanda.png" alt="Card image" style={{height:"300px", width:"400px"}}/>
                         <Card.ImgOverlay>
                             <Card.Title>Akhanda</Card.Title>
                             <Card.Text>
@@ -55,7 +55,7 @@ function CardsSlider() {
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./radhe.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                        <Card.Img src="./radhe.png" alt="Card image" style={{height:"300px", width:"400px"}}/>
                         <Card.ImgOverlay>
                             <Card.Title>Radhe Shyam</Card.Title>
                             <Card.Text>
@@ -65,7 +65,7 @@ function CardsSlider() {
                         </Card.ImgOverlay>
                     </Card>
                     <Card className="bg-dark text-white" style={{height:"300px", width:"300px"}}>
-                        <Card.Img src="./dead.png" alt="Card image" style={{height:"300px", width:"300px"}}/>
+                        <Card.Img src="./dead.png" alt="Card image" style={{height:"300px", width:"400px"}}/>
                         <Card.ImgOverlay>
                             <Card.Title>Dead Poets Society</Card.Title>
                             <Card.Text>

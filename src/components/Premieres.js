@@ -50,12 +50,11 @@ function Premieres() {
                         </Card.Body>
                     </Card>
                     <Card>
-                        <Card.Img variant="top" src="./logo192.png" />
+                        <Card.Img variant="top" src="./venom.png" />
                         <Card.Body>
-                        <Card.Title>Card title</Card.Title>
+                        <Card.Title>Venom</Card.Title>
                         <Card.Text>
-                            This card has supporting text below as a natural lead-in to additional
-                            content.{' '}
+                            
                         </Card.Text>
                         </Card.Body>
                     </Card>
