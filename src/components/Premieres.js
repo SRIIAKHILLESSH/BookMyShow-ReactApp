@@ -59,13 +59,11 @@ function Premieres() {
                         </Card.Body>
                     </Card>
                     <Card>
-                        <Card.Img variant="top" src="./logo192.png" />
+                        <Card.Img variant="top" src="./up.png" />
                         <Card.Body>
-                        <Card.Title>Card title</Card.Title>
+                        <Card.Title>Dont Look Up</Card.Title>
                         <Card.Text>
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This card has even longer content than the first to
-                            show that equal height action.
+                            
                         </Card.Text>
                         </Card.Body>
                     </Card>
