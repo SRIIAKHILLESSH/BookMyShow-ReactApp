@@ -31,7 +31,11 @@ function AllMoviesFetch() {
                 <div>
                 <div style={{background:"black"}}>
                 <Card.Title>RRR</Card.Title>
-                    Book a ticket now !
+                <button>
+                        
+                        Book Now
+                    </button>
+                    
                 </div>
                 </div>
                 </div>
@@ -46,7 +50,10 @@ function AllMoviesFetch() {
                 <div>
                 <div style={{background:"black"}}>
                 <Card.Title>Akhanda</Card.Title>
-                    Book a ticket now !
+                    <button>
+                        
+                        Book Now
+                    </button>
                 </div>
                 </div>
                 </div>
@@ -59,7 +66,10 @@ function AllMoviesFetch() {
                         <div>
                         <div style={{background:"black"}}>
                             <Card.Title>Liger</Card.Title>
-                            Book a ticket now
+                            <button>
+                        
+                        Book Now
+                    </button>
                             </div>
                             </div>
                     </Card>

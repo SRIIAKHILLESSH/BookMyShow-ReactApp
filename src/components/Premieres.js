@@ -40,12 +40,11 @@ function Premieres() {
             <Carousel.Item >
                 <CardGroup>
                     <Card>
-                        <Card.Img variant="top" src="./logo192.png" />
+                        <Card.Img variant="top" src="./eternals.png" />
                         <Card.Body>
-                        <Card.Title>Card title</Card.Title>
+                        <Card.Title>Eternals</Card.Title>
                         <Card.Text>
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.
+                            
                         </Card.Text>
                         </Card.Body>
                     </Card>
